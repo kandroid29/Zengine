@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class GameMainActivity extends AppCompatActivity {
-    private int greeting = "Hello Android";
+    private String greeting = "Hello Android";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
